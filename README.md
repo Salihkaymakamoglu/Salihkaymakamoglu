@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Salihkaymakamoglu
+- 👀 I’m a software engineering student
+- 🌱 I’m currently learning javascript
+- 📫 E-mail : kaymakamoglusalih@gmail.com
