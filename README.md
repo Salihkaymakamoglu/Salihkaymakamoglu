@@ -7,7 +7,7 @@
   <h4>Software Engineer & Front-End Developer from Cyprus 🇨🇾</h4>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/salih-kaymakamo%C4%9Flu-16309a235/" target="_blank">
+    <a href="https://www.linkedin.com/in/salih-topel-kaymakamoglu/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/salihkaymakamoglu/" target="_blank">
@@ -26,7 +26,7 @@
 - 💼 I’m currently working as a **Front-End Developer**
 - 🚀 Passionate about building responsive and user-friendly web apps
 - ✨ Tech Enthusiast | Team Player | Lifelong Learner  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/salih-kaymakamo%C4%9Flu-16309a235/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/salih-topel-kaymakamoglu/)
 
 ---
 
